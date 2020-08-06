@@ -93,13 +93,13 @@ namespace BrasileiroSerieA.Util
                                                    + Environment.NewLine + Environment.NewLine
                                                    + "* Campeonato Brasileiro Série B: 1 (2016)"
                                                    + Environment.NewLine + Environment.NewLine
-                                                   + "* Campeonato Brasileiro Série C: 2 (1990 - 2008)"
+                                                   + "* Campeonato Brasileiro Série C: 2 (1990, 2008)"
                                                    + Environment.NewLine + Environment.NewLine
                                                    + "* Torneio Integração Nacional: 1 (1971)"
                                                    + Environment.NewLine + Environment.NewLine
-                                                   + "* Taça dos Invictos: 2 (1956 - 1957/58)"
+                                                   + "* Taça dos Invictos: 2 (1956, 1957/58)"
                                                    + Environment.NewLine + Environment.NewLine
-                                                   + "* Copa Goiás: 2 (1968 - 1998)"
+                                                   + "* Copa Goiás: 2 (1968, 1998)"
                                                    + Environment.NewLine + Environment.NewLine
                                                    + "Site oficial:"
                                                    + Environment.NewLine + Environment.NewLine
@@ -127,7 +127,7 @@ namespace BrasileiroSerieA.Util
                                                    + Environment.NewLine + Environment.NewLine
                                                    + "* Copa Libertadores da América: 1 (2013)"
                                                    + Environment.NewLine + Environment.NewLine
-                                                   + "* Copa CONMEBOL: 2 (1992 - 1997)"
+                                                   + "* Copa CONMEBOL: 2 (1992, 1997)"
                                                    + Environment.NewLine + Environment.NewLine
                                                    + "* Recopa Sul-Americana: 1 (2015)"
                                                    + Environment.NewLine + Environment.NewLine
@@ -149,9 +149,9 @@ namespace BrasileiroSerieA.Util
                                                    + Environment.NewLine + Environment.NewLine
                                                    + "* Campeonato Baiano: 48"
                                                    + Environment.NewLine + Environment.NewLine
-                                                   + "* Campeonato Brasileiro Série A: 2 (1959 - 1988)"
+                                                   + "* Campeonato Brasileiro Série A: 2 (1959, 1988)"
                                                    + Environment.NewLine + Environment.NewLine
-                                                   + "* Copa do Nordeste: 3 (2001 - 2002 - 2017)"
+                                                   + "* Copa do Nordeste: 3 (2001, 2002, 2017)"
                                                    + Environment.NewLine + Environment.NewLine
                                                    + "* Torneio dos Campeões do Nordeste: 1 (1948)"
                                                    + Environment.NewLine + Environment.NewLine
@@ -165,11 +165,53 @@ namespace BrasileiroSerieA.Util
                     case "5":
                         msgBot.SendTextMessageAsync(e.Message.Chat.Id, "Botafogo"
                                                    + Environment.NewLine + Environment.NewLine
+                                                   + "Alcunhas: Estrela Solitária, Fogão, O Glorioso"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Fundação: 01/07/1904"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Localização: Rio da Janeiro - RJ, Brasil"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Prinicpais Títulos:"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Carioca: 21"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Taça Guanabara: 8"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Taça Rio: 7"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série A: 2 (1968, 1995)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série B: 1 (2015)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Torneio Rio-São Paulo: 4 (1962, 1964, 1966, 1998)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Conmebol: 1 (1993)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Site oficial:"
+                                                   + Environment.NewLine + Environment.NewLine
                                                    + "https://www.botafogo.com.br/");
                         break;
 
                     case "6":
                         msgBot.SendTextMessageAsync(e.Message.Chat.Id, "Ceará"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Alcunhas: Vovô, Vozão, Gigante Alvinegro"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Fundação: 02/06/1914"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Localização: Fortaleza - CE, Brasil"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Prinicpais Títulos:"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Cearense: 45"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Torneio Início do Ceará: 12"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa do Nordeste: 2 (2015, 2020)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Torneio Norte-Nordeste: 1 (1969)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Site oficial:"
                                                    + Environment.NewLine + Environment.NewLine
                                                    + "http://www.cearasc.com/");
                         break;
@@ -177,11 +219,59 @@ namespace BrasileiroSerieA.Util
                     case "7":
                         msgBot.SendTextMessageAsync(e.Message.Chat.Id, "Corinthians"
                                                    + Environment.NewLine + Environment.NewLine
+                                                   + "Alcunhas: Timão, Coringão, Campeão dos Campeões"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Fundação: 02/06/1914"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Localização: São Paulo - SP, Brasil"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Prinicpais Títulos:"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Paulista: 30"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Torneio Rio-São Paulo: 5 (1950, 1953, 1954, 1966, 2002)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa do Brasil: 3 (1995, 2002 e 2009)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Supercopa do Brasil: 1 (1991)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série A: 7 (1990, 1998, 1999, 2005, 2011, 2015, 2017)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Libertadores da América: 1 (2012)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa do Mundo de Clubes da FIFA: 2 (2000, 2012)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Recopa Sul-Americana: 1 (2013)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Tríplice Coroa Internacional: 1 (2013)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Site oficial:"
+                                                   + Environment.NewLine + Environment.NewLine
                                                    + "https://www.corinthians.com.br/");
                         break;
 
                     case "8":
                         msgBot.SendTextMessageAsync(e.Message.Chat.Id, "Coritiba"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Alcunhas: Coxa, Coxa-Branca, Verdão"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Fundação: 12/10/1909"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Localização: Curitiba - PR, Brasil"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Prinicpais Títulos:"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Paranaense: 38"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Torneio Início do Paraná: 10"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série A: 1 (1985)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série B: 2 (2007, 2010)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Torneio do Povo: 1 (1973)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Site oficial:"
                                                    + Environment.NewLine + Environment.NewLine
                                                    + "https://www.coritiba.com.br/Portal");
                         break;
