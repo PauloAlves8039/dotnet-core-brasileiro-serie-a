@@ -279,11 +279,67 @@ namespace BrasileiroSerieA.Util
                     case "9":
                         msgBot.SendTextMessageAsync(e.Message.Chat.Id, "Flamengo"
                                                    + Environment.NewLine + Environment.NewLine
+                                                   + "Alcunhas: Mengo, Mengão, Rubro-Negro Carioca"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Fundação: 15/11/1895"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Localização: Rio de Janeiro - RJ, Brasil"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Prinicpais Títulos:"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Carioca: 36"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Taça Guanabara: 22"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Taça Rio: 9"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Torneio Rio–São Paulo: 1 (1961)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa do Brasil: 3 (1990, 2006 e 2013)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa dos Campeões: 1 (2001)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série A: 6"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Libertadores da América: 2 (1981, 2019)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Mercosul: 1 (1999)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Recopa Sul-Americana: 1 (2020)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Intercontinental: 1 (1981)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Site oficial:"
+                                                   + Environment.NewLine + Environment.NewLine
                                                    + "https://www.flamengo.com.br/");
                         break;
 
                     case "10":
                         msgBot.SendTextMessageAsync(e.Message.Chat.Id, "Fluminense"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Alcunhas: Tricolor, Flu, Fluzão"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Fundação: 21/07/1902"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Localização: Rio de Janeiro - RJ, Brasil"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Prinicpais Títulos:"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Carioca: 31"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Taça Guanabara: 7"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Taça Rio: 4"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Torneio Rio-São Paulo: 2 (1957, 1960)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série A: 4 (1970, 1984, 2010, 2012)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série C: 1 (1999)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa do Brasil: 1 (2007)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Site oficial:"
                                                    + Environment.NewLine + Environment.NewLine
                                                    + "https://www.fluminense.com.br/site/");
                         break;
@@ -291,17 +347,85 @@ namespace BrasileiroSerieA.Util
                     case "11":
                         msgBot.SendTextMessageAsync(e.Message.Chat.Id, "Fortaleza"
                                                    + Environment.NewLine + Environment.NewLine
+                                                   + "Alcunhas: Tricolor do Pici, Leão do Pici, Rei Leão do Brasil"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Fundação: 18/10/1918"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Localização: Fortaleza - CE, Brasil"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Prinicpais Títulos:"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Cearense: 42"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Taça dos Campeões Cearenses: 2 (2016, 2017)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa do Nordeste: 1 (2019)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série B: 1 (2018)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Torneio Norte–Nordeste: 1 (1970)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Site oficial:"
+                                                   + Environment.NewLine + Environment.NewLine
                                                    + "https://fortaleza1918.com.br/");
                         break;
 
                     case "12":
                         msgBot.SendTextMessageAsync(e.Message.Chat.Id, "Goiás"
                                                    + Environment.NewLine + Environment.NewLine
+                                                   + "Alcunhas: Verdão, Gigante Esmeralda, Alviverde"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Fundação: 06/04/1943"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Localização: 	Goiânia - GO, Brasil"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Prinicpais Títulos:"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Goiano: 28"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Centro-Oeste: 3 (2000, 2001, 2002)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Torneio Início do Campeonato Goiano: 8"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série B: 2 (1999, 2012)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Torneio Norte–Nordeste: 1 (1970)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Site oficial:"
+                                                   + Environment.NewLine + Environment.NewLine
                                                    + "https://www.goiasec.com.br/");
                         break;
 
                     case "13":
                         msgBot.SendTextMessageAsync(e.Message.Chat.Id, "Grêmio"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Alcunhas: Tricolor dos Pampas, Imortal Tricolor, Rei de Copas"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Fundação: 15/09/1903"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Localização: 	Porto Alegre - RS, Brasil"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Prinicpais Títulos:"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Gaúcho: 38"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Citadino de Porto Alegre: 29"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Sul: 1 (1999)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série B: 1 (2005)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa do Brasil: 5 (1989, 1994, 1997, 2001, 2016)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série A: 2 (1981, 1996)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Recopa Sul-Americana: 2 (1996, 2018)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Libertadores da América: 3 (1983, 1995, 2017)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Intercontinental: 1 (1983)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Site oficial:"
                                                    + Environment.NewLine + Environment.NewLine
                                                    + "https://gremio.net/");
                         break;
