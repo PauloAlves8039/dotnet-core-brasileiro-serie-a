@@ -377,7 +377,7 @@ namespace BrasileiroSerieA.Util
                                                    + Environment.NewLine + Environment.NewLine
                                                    + "Fundação: 06/04/1943"
                                                    + Environment.NewLine + Environment.NewLine
-                                                   + "Localização: 	Goiânia - GO, Brasil"
+                                                   + "Localização: Goiânia - GO, Brasil"
                                                    + Environment.NewLine + Environment.NewLine
                                                    + "Prinicpais Títulos:"
                                                    + Environment.NewLine + Environment.NewLine
@@ -403,7 +403,7 @@ namespace BrasileiroSerieA.Util
                                                    + Environment.NewLine + Environment.NewLine
                                                    + "Fundação: 15/09/1903"
                                                    + Environment.NewLine + Environment.NewLine
-                                                   + "Localização: 	Porto Alegre - RS, Brasil"
+                                                   + "Localização: Porto Alegre - RS, Brasil"
                                                    + Environment.NewLine + Environment.NewLine
                                                    + "Prinicpais Títulos:"
                                                    + Environment.NewLine + Environment.NewLine
@@ -433,17 +433,95 @@ namespace BrasileiroSerieA.Util
                     case "14":
                         msgBot.SendTextMessageAsync(e.Message.Chat.Id, "Internacional"
                                                    + Environment.NewLine + Environment.NewLine
+                                                   + "Alcunhas: Inter, Colorado, Campeão de Tudo"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Fundação: 04/04/1909"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Localização: Porto Alegre - RS, Brasil"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Prinicpais Títulos:"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Gaúcho: 45"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Recopa Gaúcha: 3 (2016, 2017)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Super Copa Gaúcha: 1 (2016)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série A: 3 (1975, 1976, 1979)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa do Brasil: 1 (1992)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Recopa Sul-Americana: 2 (2007, 2011)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Sul-Americana: 1 (2008)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Libertadores da América: 2 (2006, 2010)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa do Mundo de Clubes da FIFA: 1 (2006)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Site oficial:"
+                                                   + Environment.NewLine + Environment.NewLine
                                                    + "https://www.internacional.com.br/");
                         break;
 
                     case "15":
                         msgBot.SendTextMessageAsync(e.Message.Chat.Id, "Palmeiras"
                                                    + Environment.NewLine + Environment.NewLine
+                                                   + "Alcunhas: Verdão, Alviverde, Palestra"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Fundação: 26/08/1914"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Localização: São Paulo - SP, Brasil"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Prinicpais Títulos:"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Paulista: 22"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Torneio Rio-São Paulo: 5 (1933, 1951, 1965, 1993, 2000)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa dos Campeões: 1 (2000)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série A: 10"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série B: 2 (2003, 2013)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa do Brasil: 3 (1998, 2012, 2015)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Mercosul: 1 (1998)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Libertadores da América: 1 (1999)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Site oficial:"
+                                                   + Environment.NewLine + Environment.NewLine
                                                    + "https://www.palmeiras.com.br/");
                         break;
 
                     case "16":
                         msgBot.SendTextMessageAsync(e.Message.Chat.Id, "Red Bull Bragantino"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Alcunhas: Braga, Massa Bruta"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Fundação: 08/01/1928 - 01/01/2020 Clube Atrlético Bragantino"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Localização: Bragança Paulista - SP, Brasil"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Prinicpais Títulos:"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Paulista: 1 (1990)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Paulista Séria A2: 2 (1965, 1998)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Paulista Séria B2: 1 (1979)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Torneio Início: 1 (1991)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série B: 2 (1989, 2019)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série C: 1 (2007)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Paulista do Interior: 1 (2020)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Site oficial:"
                                                    + Environment.NewLine + Environment.NewLine
                                                    + "https://www.redbullbragantino.com.br//");
                         break;
