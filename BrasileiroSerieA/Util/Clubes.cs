@@ -529,11 +529,71 @@ namespace BrasileiroSerieA.Util
                     case "17":
                         msgBot.SendTextMessageAsync(e.Message.Chat.Id, "Santos"
                                                    + Environment.NewLine + Environment.NewLine
+                                                   + "Alcunhas: Peixe, Alvinegro Praiano, Alvinegro da Vila"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Fundação: 14/04/1912"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Localização: Santos - SP, Brasil"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Prinicpais Títulos:"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Paulista: 22"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Torneio Rio-São Paulo: 5 (1959, 1963, 1964, 1966, 1997)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa do Brasil: 1 (2010)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série A: 8"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Supercopa Sul-Americana dos Campeões Intercontinentais: 1 (1968)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Recopa Sul-Americana: 1 (2012)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Conmebol: 1 (1998)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Libertadores da América: 3 (1962, 1963, 2011)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Intercontinental: 3 (1962, 1963)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Site oficial:"
+                                                   + Environment.NewLine + Environment.NewLine
                                                    + "https://www.santosfc.com.br//");
                         break;
 
                     case "18":
                         msgBot.SendTextMessageAsync(e.Message.Chat.Id, "São Paulo"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Alcunhas: Tricolor Paulista, Tricolor do Morumbi, O Mais Querido"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Fundação: 25/01/1930"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Localização: São Paulo - SP, Brasil"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Prinicpais Títulos:"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Paulista: 21"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Torneio Rio-São Paulo: 1 (2001)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série A: 6 (1977, 1986, 1991, 2006, 2007, 2008)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Master da Conmebol: 1 (1996)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Recopa Sul-Americana: 2 (1993, 1994)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Supercopa Sul-Americana: 1 (1993)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Conmebol: 1 (1994)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Sul-Americana: 1 (2012)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Libertadores da América: 3 (1992, 1993, 2005)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Intercontinental: 2 (1992, 1993)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa do Mundo de Clubes da FIFA: 1 (2005)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Site oficial:"
                                                    + Environment.NewLine + Environment.NewLine
                                                    + "http://www.saopaulofc.net/");
                         break;
@@ -541,11 +601,61 @@ namespace BrasileiroSerieA.Util
                     case "19":
                         msgBot.SendTextMessageAsync(e.Message.Chat.Id, "Sport"
                                                    + Environment.NewLine + Environment.NewLine
+                                                   + "Alcunhas: Leão da Ilha, Leão da Praça da Bandeira, Rubro-negro Pernambucano"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Fundação: 13/05/1905"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Localização: Recife - PE, Brasil"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Prinicpais Títulos:"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Pernambucano: 42"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Torneio Início: 18"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa do Nordeste: 3 (1994, 2000, 2014)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa do Brasil: 1 (2008)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série B: 1 (1990)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série A: 1 (1987)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Site oficial:"
+                                                   + Environment.NewLine + Environment.NewLine
                                                    + "https://sportrecife.com.br/");
                         break;
 
                     case "20":
                         msgBot.SendTextMessageAsync(e.Message.Chat.Id, "Vasco da Gama"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Alcunhas: Vascão, Gigante da Colina, Time da Virada"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Fundação: 21/08/1998"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Localização: Rio de Janeiro - RJ, Brasil"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Prinicpais Títulos:"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Carioca: 24"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Taça Guanabara: 12"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Taça Rio: 10"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Torneio Rio-São Paulo: 3 (1958, 1966, 1999)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa do Brasil: 1 (2011)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série B: 1 (2009)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Campeonato Brasileiro Série A: 4 (1974, 1989, 1997, 2000)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Mercosul: 1 (2000)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "* Copa Libertadores da América: 1 (1998)"
+                                                   + Environment.NewLine + Environment.NewLine
+                                                   + "Site oficial:"
                                                    + Environment.NewLine + Environment.NewLine
                                                    + "https://www.vasco.com.br/site/");
                         break;
