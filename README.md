@@ -1,4 +1,4 @@
-<h1 align="center">:soccer: DotNet Core Brasileiro Serie A</h1>
+<h1 align="center">:soccer: DotNet Core Brasileiro Série A</h1>
 
 ## :computer: Projeto
 
@@ -9,7 +9,7 @@ Está aplicação pode passar por alterações em breve, pois serão adicionadas
 ## :rocket: Funcionalidade
 
 O usuário inicia uma conversa no chatbot para obter informações e curiosidades sobre seu clube, o bot lhe fornece instruções para escolher o time desejado, 
-como resposta rápida e simplificada o atendimento envio de textos e links sobre os clubes que disputam o campeonato Brasileiro da serie A.
+como resposta rápida e simplificada o atendimento envio de textos e links sobre os clubes que disputam o campeonato Brasileiro da Série A.
 
 ## :wrench: Recursos Utilizados
 
@@ -18,6 +18,7 @@ como resposta rápida e simplificada o atendimento envio de textos e links sobre
 - [C#](https://code.visualstudio.com/).
 - [Telegram Bot](https://telegrambots.github.io/book/index.html).
 - [Imagem do Bot - Pexels](https://www.pexels.com/pt-br/foto/campo-area-grama-esporte-47730/).
+- [Informações sobre os clubes](https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2020_-_S%C3%A9rie_A).
 
 ## :floppy_disk: Clonar repositório
 
